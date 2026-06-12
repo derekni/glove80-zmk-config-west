@@ -373,7 +373,7 @@
                 <&kp I &kp T &kp QUESTION &kp SPACE>,
                 <&kp LS(P) &kp LS(R) &kp SPACE>,
                 <&kp L &kp I &kp N &kp K &kp COLON &kp SPACE>,
-                <&kp LG(V)>;
+                <&kp LG(V) &kp RET>;
         };
     };
 };
