@@ -367,11 +367,11 @@
                 <&kp A &kp S &kp S &kp O &kp C &kp I &kp A &kp T &kp E &kp D &kp SPACE>,
                 <&kp W &kp I &kp T &kp H &kp SPACE>,
                 <&kp T &kp H &kp I &kp S &kp SPACE>,
-                <&kp LS(P) &kp R &kp SPACE>,
+                <&kp LS(P) &kp LS(R) &kp SPACE>,
                 <&kp A &kp N &kp D &kp SPACE>,
                 <&kp R &kp E &kp V &kp I &kp E &kp W &kp SPACE>,
                 <&kp I &kp T &kp QUESTION &kp SPACE>,
-                <&kp LS(P) &kp R &kp SPACE>,
+                <&kp LS(P) &kp LS(R) &kp SPACE>,
                 <&kp L &kp I &kp N &kp K &kp COLON &kp SPACE>,
                 <&kp LG(V)>;
         };
