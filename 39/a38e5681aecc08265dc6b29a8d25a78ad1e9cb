@@ -1,0 +1,21 @@
+config/west.yml
+  s_060107400f3d1a::t_42afd9c70af067 8-10
+.github/workflows/build.yml
+  s_060107400f3d1a::t_85b306629c9bdb 5-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "39a38e5681aecc08265dc6b29a8d25a78ad1e9cb",
+  "prompts": {},
+  "sessions": {
+    "s_060107400f3d1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d9832cfd-527b-455f-a07d-4882399c1801",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Derek Ni <derek.ni@clay.com>"
+    }
+  }
+}
