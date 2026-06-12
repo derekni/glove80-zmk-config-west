@@ -1,0 +1,19 @@
+config/glove80.keymap
+  s_ae12cbe077a07b::t_8c13d41bb705c4 3,8-14,16-17,22-96,100,102,104,107,109-112,114-128,132-133,137-138,140-167,175,183,191,200-318,320-404,409,411-416,420,422-427,431,433-438
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d6fb26641fb7b17ebf8b069f64d41758a0005b1b",
+  "prompts": {},
+  "sessions": {
+    "s_ae12cbe077a07b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c65c08d3-2f4d-44a0-8e44-adb4055a837f",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Derek Ni <derek.ni@clay.com>"
+    }
+  }
+}
