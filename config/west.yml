@@ -5,7 +5,9 @@ manifest:
   projects:
     - name: zmk
       remote: moergo-sc
-      revision: main
+      # Pinned firmware revision (moergo-sc/zmk main as of 2026-04-13).
+      # Bump deliberately to pick up new firmware.
+      revision: 2f73a230e2fc7b2bd64a9736181e87bf54338131
       import: app/west.yml
   self:
     path: config

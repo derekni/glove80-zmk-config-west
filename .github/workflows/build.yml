@@ -2,4 +2,6 @@ on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
-    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
+    # Pinned to moergo-sc/zmk (Glove80 fork) at a fixed SHA so upstream
+    # workflow changes can't break builds. Bump deliberately to update.
+    uses: moergo-sc/zmk/.github/workflows/build-user-config.yml@2f73a230e2fc7b2bd64a9736181e87bf54338131
