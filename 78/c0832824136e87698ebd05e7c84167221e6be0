@@ -1,0 +1,19 @@
+config/glove80.keymap
+  s_060107400f3d1a::t_4424df00fd80de 370,374
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "78c0832824136e87698ebd05e7c84167221e6be0",
+  "prompts": {},
+  "sessions": {
+    "s_060107400f3d1a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d9832cfd-527b-455f-a07d-4882399c1801",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Derek Ni <derek.ni@clay.com>"
+    }
+  }
+}
